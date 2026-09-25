@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": " ^⁠_^𝗔_𝗥_𝗜_𝗬_𝗔_⁠𝗡^_^ 𝐁𝐁'𝐙 ",
+  "nickNameBot": " ^⁠_^Rowsan Sadia ",
   "prefix": ".",
   "enableTypingIndicator": true,
   "typingDuration": 2000,
@@ -30,8 +30,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61582149885357",
-    "100062655705183",
+    
+    "100094040647376",
        ""  
   ],
   "reactUnsend": {
